@@ -28,7 +28,7 @@ The script performs the following actions:
 
 Upon successful execution, the script will display the following message in the console:
 
-![output images](https://drive.google.com/file/d/1kpXf3dI2kCil4XSuhHw4DMBzw19yH6N7/view?usp=sharing)
+![output images](https://drive.google.com/uc?export=view&id=1mtmb6Nvv5lZb46WA7UEhrIhgG2SF8iO3)
 ![output images](https://drive.google.com/uc?export=view&id=1kpXf3dI2kCil4XSuhHw4DMBzw19yH6N7)
 
 

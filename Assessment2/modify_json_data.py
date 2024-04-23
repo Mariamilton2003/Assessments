@@ -17,3 +17,4 @@ with open(json_filename, "w") as json_file:
     json.dump(data, json_file, indent=4)
 
 print(f'Updated {json_filename} with a new batter for "Old Fashioned" donut.')
+print(json.dumps(data, indent=4))

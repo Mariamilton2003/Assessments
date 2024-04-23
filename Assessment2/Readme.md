@@ -27,7 +27,8 @@ The script performs the following actions:
 ## Example Output
 
 Upon successful execution, the script will display the following message in the console:
-<img src="https://lh3.google.com/u/0/d/1kpXf3dI2kCil4XSuhHw4DMBzw19yH6N7=w2000-h2062-iv1" alt="output image"/>
+
+![](https://drive.google.com/uc?export=view&id=kpXf3dI2kCil4XSuhHw4DMBzw19yH6N7)
 <img src="https://drive.google.com/file/d/1kpXf3dI2kCil4XSuhHw4DMBzw19yH6N7/view?usp=sharing" alt="output image"/>
 
 

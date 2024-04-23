@@ -28,10 +28,10 @@ The script performs the following actions:
 
 Upon successful execution, the script will display the following message in the console:
 
-```
-!(https://drive.google.com/file/d/1mtmb6Nvv5lZb46WA7UEhrIhgG2SF8iO3/view?usp=sharing)
-!(https://drive.google.com/file/d/1kpXf3dI2kCil4XSuhHw4DMBzw19yH6N7/view?usp=sharing)
-```
+
+![](https://drive.google.com/file/d/1mtmb6Nvv5lZb46WA7UEhrIhgG2SF8iO3/view?usp=sharing)
+![](https://drive.google.com/file/d/1kpXf3dI2kCil4XSuhHw4DMBzw19yH6N7/view?usp=sharing)
+
 
 
 ## Dependencies
